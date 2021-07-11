@@ -202,6 +202,9 @@ vendor/lib/libmmcamera_mot_ov12a10.so
 vendor/lib/libmmcamera_mot_ov5675.so
 vendor/lib/libmmcamera_s5k4h7.so
 
+# Charger - from aljeter - PPPS29.55-35-18-7
+vendor/bin/charge_only_mode|e08d4a141f2d65fa89ee7d5d931e59caefc4cf3c
+
 # Display calibration
 vendor/etc/qdcm_calib_data_mipi_mot_video_djn_hd_599.xml|315c54a3967e053782571d6adb08f01048675dc2
 vendor/etc/qdcm_calib_data_mipi_mot_video_djn_hd_600.xml|689a49022d016326cc3fa875bbde2392b61290d3
